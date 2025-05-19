@@ -1,4 +1,4 @@
-# Croud count and Density Estimation:
+# Crowd count and Density Estimation:
 
 This project implements a real-time crowd counting system using the YOLOv8 object detection model from the [Ultralytics](https://github.com/ultralytics/ultralytics) library. It detects and counts the number of people in a webcam feed, displaying the count live on the video stream.
 
